@@ -1,0 +1,21 @@
+scheduler:
+  escalation: 10000
+  update: 2000
+
+media:
+  allowedRoles: RSM;ZSH
+  baseUrl: https://customerapproval.marutisuzuki.com/
+  get:
+    url: https://customerapproval.marutisuzuki.com/mtab_qa/
+
+app:
+  version: 0.0
+  build:
+    number: 1
+  release:
+    date: "2024-01-16 15:30:00"
+  mandatory: 
+    update: false
+  latest:
+    update:
+      link: https://msil-app.store/dummy-url-serviz-app/v0.0
