@@ -1,6 +1,6 @@
 scheduler:
-  escalation: 10000
-  update: 2000
+  escalation: 1000000
+  update: 200000
 
 media:
   allowedRoles: RSM;ZSH
