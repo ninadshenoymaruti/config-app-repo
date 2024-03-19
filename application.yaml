@@ -4,7 +4,7 @@ scheduler:
 
 media:
   allowedRoles: RSM;ZSH
-  baseUrl: https://customerapproval.marutisuzuki.com/
+  baseUrl: https://customerapproval.marutisuzuki.com
   get:
     url: https://customerapproval.marutisuzuki.com/mtab_qa/
 
