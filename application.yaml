@@ -9,6 +9,14 @@ media:
   get:
     url: https://customerapproval.marutisuzuki.com/mtab_qa/
 
+msil:
+  preprod:
+    headers:
+      xapikey: zkZqTRAdcx3mYvaTuwVaJy0Di8epFiTab9onDgz3
+    client:
+      id: 69b372e3vrtcj7pn3m6h6lq108
+      secret: d49rscc860ko3umg93lbh00bfva7pa8dq39o25mnoc7lu6bgro4
+
 app:
   version: 0.0
   build:
